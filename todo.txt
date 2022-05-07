@@ -10,3 +10,5 @@ MY TO-DO LIST
 8. Complete internship task.
 9. Practice chess openings.
 10. Solve chess puzzles.
+
+Changed global user name as well
